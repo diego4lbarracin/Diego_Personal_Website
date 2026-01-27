@@ -17,7 +17,7 @@ const Projects = () => {
         "GitHub Actions, Pages and Secrets Manager",
         "Render",
       ],
-      image: "public/images/projects/Minecraft_Server_Generator.png",
+      image: "/images/projects/Minecraft_Server_Generator.png",
       sourceUrl:
         "https://github.com/diego4lbarracin/The_Minecraft_Server_Generator",
       liveUrl:
@@ -36,7 +36,7 @@ const Projects = () => {
         "GitHub Actions, Pages and Secrets Manager",
         "Render",
       ],
-      image: "public/images/projects/Compund_Interest_Calculator.jpg",
+      image: "/images/projects/Compund_Interest_Calculator.jpg",
       sourceUrl:
         "https://github.com/diego4lbarracin/Compound-Interest-Calculator",
       liveUrl:
@@ -53,7 +53,7 @@ const Projects = () => {
         "CI/CD Pipelines",
         "GitHub Actions, Pages and Secrets Manager",
       ],
-      image: "public/images/projects/The_QR_BR.png",
+      image: "/images/projects/The_QR_BR.png",
       sourceUrl:
         "https://github.com/diego4lbarracin/The-Definitive-QR-Code-Generator-Image-Background-Remover",
       liveUrl:
