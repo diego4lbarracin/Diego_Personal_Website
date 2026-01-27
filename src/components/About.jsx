@@ -23,56 +23,56 @@ const About = () => {
         <div className="grid grid-cols-2 gap-4 h-fit">
           <div className="aspect-[4/5] bg-gray-200 dark:bg-gray-800 rounded-lg overflow-hidden">
             <img
-              src="/images/aboutMe_Section/pictureOfMySelf.PNG"
+              src={`${import.meta.env.BASE_URL}images/aboutMe_Section/pictureOfMySelf.PNG`}
               alt="Hobby 1"
               className="w-full h-full object-cover"
             />
           </div>
           <div className="aspect-[4/5] bg-gray-200 dark:bg-gray-800 rounded-lg overflow-hidden">
             <img
-              src="/images/aboutMe_Section/mmy2025.PNG"
+              src={`${import.meta.env.BASE_URL}images/aboutMe_Section/mmy2025.PNG`}
               alt="Hobby 2"
               className="w-full h-full object-cover"
             />
           </div>
           <div className="aspect-[4/5] bg-gray-200 dark:bg-gray-800 rounded-lg overflow-hidden">
             <img
-              src="/images/aboutMe_Section/ridingBikes.jpg"
+              src={`${import.meta.env.BASE_URL}images/aboutMe_Section/ridingBikes.jpg`}
               alt="Hobby 3"
               className="w-full h-full object-cover"
             />
           </div>
           <div className="aspect-[4/5] bg-gray-200 dark:bg-gray-800 rounded-lg overflow-hidden">
             <img
-              src="/images/aboutMe_Section/tutoring.JPG"
+              src={`${import.meta.env.BASE_URL}images/aboutMe_Section/tutoring.JPG`}
               alt="Hobby 4"
               className="w-full h-full object-cover"
             />
           </div>
           <div className="aspect-[4/5] bg-gray-200 dark:bg-gray-800 rounded-lg overflow-hidden">
             <img
-              src="/images/aboutMe_Section/dreamCar.JPG"
+              src={`${import.meta.env.BASE_URL}images/aboutMe_Section/dreamCar.JPG`}
               alt="Hobby 5"
               className="w-full h-full object-cover"
             />
           </div>
           <div className="aspect-[4/5] bg-gray-200 dark:bg-gray-800 rounded-lg overflow-hidden">
             <img
-              src="/images/aboutMe_Section/watches.jpeg"
+              src={`${import.meta.env.BASE_URL}images/aboutMe_Section/watches.jpeg`}
               alt="Hobby 6"
               className="w-full h-full object-cover"
             />
           </div>
           <div className="aspect-[4/5] bg-gray-200 dark:bg-gray-800 rounded-lg overflow-hidden">
             <img
-              src="/images/aboutMe_Section/mmb2025.JPG"
+              src={`${import.meta.env.BASE_URL}images/aboutMe_Section/mmb2025.JPG`}
               alt="Hobby 7"
               className="w-full h-full object-cover"
             />
           </div>
           <div className="aspect-[4/5] bg-gray-200 dark:bg-gray-800 rounded-lg overflow-hidden">
             <img
-              src="/images/aboutMe_Section/capyBaras.jpeg"
+              src={`${import.meta.env.BASE_URL}images/aboutMe_Section/capyBaras.jpeg`}
               alt="Hobby 8"
               className="w-full h-full object-cover"
             />
