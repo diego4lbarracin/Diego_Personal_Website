@@ -16,10 +16,6 @@ const Hero = () => {
             <span>Bogotá, Colombia</span>
           </div>
           <div className="flex items-center justify-center space-x-2">
-            <Phone className="w-4 h-4" />
-            <span>+57 3224579664</span>
-          </div>
-          <div className="flex items-center justify-center space-x-2">
             <Mail className="w-4 h-4" />
             <span>diegoalbarracin0405@gmail.com</span>
           </div>
