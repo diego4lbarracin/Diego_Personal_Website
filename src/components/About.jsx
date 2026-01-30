@@ -166,7 +166,7 @@ const About = () => {
                   Systems Engineering
                 </p>
                 <p className="text-sm text-notion-gray dark:text-notion-gray-dark mt-2">
-                  GPA: 4.06 / 5.0
+                  GPA: 4.02 / 5.0
                 </p>
                 <p className="text-sm text-notion-gray dark:text-notion-gray-dark">
                   Expected Graduation Date: July 2026
