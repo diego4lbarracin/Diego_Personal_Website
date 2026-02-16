@@ -55,7 +55,7 @@ const Projects = () => {
         "GitHub Actions, Pages and Secrets Manager",
       ],
       image:
-        "https://github.com/diego4lbarracin/The_Solar_System/raw/development/frontend/public/Picture_Landing2.png?raw=true",
+        "https://github.com/diego4lbarracin/The_Solar_System/raw/development/frontend/public/Picture_Landing1.png?raw=true",
       sourceUrl: "https://github.com/diego4lbarracin/The_Solar_System",
       liveUrl: "https://diego4lbarracin.github.io/The_Solar_System/",
     },
