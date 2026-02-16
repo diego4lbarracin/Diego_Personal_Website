@@ -44,6 +44,23 @@ const Projects = () => {
     },
     {
       id: 3,
+      title: "The Solar System",
+      description:
+        "RESTful web application that on the frontend fetches information about the planets on the solar system from an API built in the backend that queries a MongoDB database and also executes a method for a feature that lets the user find out how long does it take to go from one planet to the other at the speed of light and at average speed of the fastest rocket-spacecraft system capable of carrying humans.",
+      technologies: [
+        "React & TailWind CSS",
+        "Node.js & Express.js",
+        "Docker",
+        "CI/CD",
+        "GitHub Actions, Pages and Secrets Manager",
+      ],
+      image:
+        "https://github.com/diego4lbarracin/The_Solar_System/raw/development/frontend/public/Picture_Landing2.png?raw=true",
+      sourceUrl: "https://github.com/diego4lbarracin/The_Solar_System",
+      liveUrl: "https://diego4lbarracin.github.io/The_Solar_System/",
+    },
+    {
+      id: 4,
       title: "The Definitive QR Code Generator & Image Background Remover",
       description:
         "This is a “client-based” web application with 2 productivity tools available for free, a QR code generator and a background image remover. The process of either creating the QR code and removing the background of images happens on the client’s browser, deleting the need for an external backend service to handle those requests. To generate the QR codes, the qrcode JavaScript library is currently used, on the other hand, for removing the background of images, the @imgly/background-removal npm package is used, which runs an AI model on the browser that analyzes the image provided by the user and removes the background of it.",
