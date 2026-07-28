@@ -169,7 +169,7 @@ const About = () => {
                   GPA: 4.02 / 5.0
                 </p>
                 <p className="text-sm text-notion-gray dark:text-notion-gray-dark">
-                  Expected Graduation Date: July 2026
+                  2026
                 </p>
               </div>
             </div>
