@@ -30,7 +30,7 @@ const About = () => {
           </div>
           <div className="aspect-[4/5] bg-gray-200 dark:bg-gray-800 rounded-lg overflow-hidden">
             <img
-              src={`${import.meta.env.BASE_URL}images/aboutMe_Section/mmy2025.PNG`}
+              src={`${import.meta.env.BASE_URL}images/aboutMe_Section/mmb2026.jpeg`}
               alt="Hobby 2"
               className="w-full h-full object-cover"
             />
@@ -65,7 +65,7 @@ const About = () => {
           </div>
           <div className="aspect-[4/5] bg-gray-200 dark:bg-gray-800 rounded-lg overflow-hidden">
             <img
-              src={`${import.meta.env.BASE_URL}images/aboutMe_Section/mmb2025.JPG`}
+              src={`${import.meta.env.BASE_URL}images/aboutMe_Section/mmy2025.PNG`}
               alt="Hobby 7"
               className="w-full h-full object-cover"
             />
